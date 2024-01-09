@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543306440 source:c:\users\devin chandula\desktop\instructing\algorithms\bsortsimple\main.c
+	<stdio.h>
+	<stdlib.h>
+
